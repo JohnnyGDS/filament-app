@@ -1,5 +1,5 @@
 <section class="bg-gray-100 py-20">
-    <div class="container mx-auto px-4 text-center">
+    <div class="px-4 text-center">
         <h1 class="text-4xl font-bold mb-4">{{ $data['title'] }}</h1>
         @if($data['subtitle'])
             <p class="text-xl mb-8">{{ $data['subtitle'] }}</p>
